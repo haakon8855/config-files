@@ -1,0 +1,12 @@
+[user]
+	email = haakon8855@gmail.com
+	name = Håkon Anders Strømsodd
+[alias]
+	reuse = commit --reedit-message=HEAD --reset-author
+	fastamend = commit --amend --no-edit --reset-author
+	st = status
+	ch = checkout
+	list = log --oneline
+	flog = log --oneline
+[maintenance]
+	repo = C:/Users/newsec-haakon/git/NewSec.Verdivurdering
